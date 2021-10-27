@@ -1,0 +1,115 @@
+img{
+    width: 100%;
+    height: 400px;
+    
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    height: 62px;
+    align-items: center;
+    justify-content: center;
+}
+.rheader{
+    
+}
+.lheader{
+    width: 59%;
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    bottom: 0px;
+}
+#name{
+    width: 200px;
+    background-color: azure;
+    height: 45px;
+    border-radius: 25px;
+    
+
+}
+.password{
+    width: 30%;
+    background-color: azure;
+}
+.login{
+    text-align: center;
+    width: 20%;
+   height: 350px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 50px;
+   background-color: bisque;
+   border-radius: 25px;
+
+}
+.about{
+    background-color: cornsilk;
+    color: crimson;
+    text-align: center;
+    height: 300px;
+    margin-top: 20px;
+    padding-top: 200px;
+
+    
+}
+.register{
+    text-align: center;
+    width: 20%;
+   height: 520px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 50px;
+  background-color: cornsilk;
+   border-radius: 25px;
+
+}
+button{
+    width: 150px;
+    height: 35px;
+    background-color: darkorange;
+    border-radius: 15px;
+}
+.pa{
+    display: inline;
+    padding-left: 30px;
+}
+.foot{
+    display: inline-block;
+    padding-left: 300px;
+}
+.down{
+    text-align: center;
+    background-color: brown;
+   height: 30px;
+
+}
+.log{
+    height: 560px;
+   background-color: darkgrey;
+}
+.contact{
+    margin-top: 45px;
+    text-align: center;
+    height: 400px;
+    width: 20%;
+   background-color: bisque;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.admin{
+    width: 20%;
+    height: 310px;
+    background-color: bisque;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 30px;
+}
